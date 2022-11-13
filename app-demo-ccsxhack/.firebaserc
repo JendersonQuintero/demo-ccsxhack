@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "fir-ccsxhack"
+  },
+  "targets": {
+    "fir-ccsxhack": {
+      "hosting": {
+        "app-demo-ccsxhack": [
+          "fir-ccsxhack"
+        ]
+      }
+    }
   }
 }
