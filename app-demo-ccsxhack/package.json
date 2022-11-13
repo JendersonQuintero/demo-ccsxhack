@@ -37,5 +37,9 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~4.7.2"
-  }
+  },
+  "description": "Demo del proyecto Educación para Todos. Este sistema se crea con la mirada fija en el objetivo 4 de Desarrollo Sostenible: Educación de Calidad. Este proyecto está basado en tecnologías como Angular y bootstrap para el frontend y Firebase como base de datos.",
+  "main": "karma.conf.js",
+  "author": "",
+  "license": "ISC"
 }
